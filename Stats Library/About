@@ -1,4 +1,3 @@
-
 These programs make up a small math library that covers many topics in statistics and probability. 
 It has methods to calculate basic statistics (like mean, median, mode, standard deviation, and variance), 
 to do combinatorial tasks (like combinations and permutations), and to handle probability calculations 
