@@ -1,1 +1,8 @@
 
+These programs make up a small math library that covers many topics in statistics and probability. 
+It has methods to calculate basic statistics (like mean, median, mode, standard deviation, and variance), 
+to do combinatorial tasks (like combinations and permutations), and to handle probability calculations 
+(such as conditional probability, Bayes’ theorem, binomial and geometric distributions, and checking if 
+events are independent or dependent). It also shows how to perform simple set operations 
+(union, intersection, and complement) using lists. Each part is in its own class with a tester class, 
+making it easier to understand and run the examples.
